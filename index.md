@@ -14,5 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [The Wall of Winnipeg and Me](ebook/The_Wall_of_Winnipeg_and_Me_Mariana_Zapata.pdf) – Mariana Zapata
 11. [The Star and I](ebook/The_star_and_I_Indonesian_Edition_Ilana_Tan.pdf) – Ilana Tan
 12. [Winter in Tokyo](ebook/Winter_In_Tokyo_Ilana_Tan.pdf) – Ilana Tan
+13. [Rangkuman UGC](ebook/Rangkuman_UGC.pdf) – Siti Nur Aisyah 0091
 ---
 *Powered by GitHub Pages*
